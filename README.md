@@ -1,8 +1,8 @@
 ## Git it Done!
 
-** This uses GitHub's API to search for open source projects with open issues and pull requests.
-** All buttons work and function appropriately.
-** When inspecting browser requests they return with the correct responses.
+**This uses GitHub's API to search for open source projects with open issues and pull requests.
+**All buttons work and function appropriately.
+**When inspecting browser requests they return with the correct responses.
 
 
 Link to deployed application: https://alainarosendahl.github.io/git-it-done/
